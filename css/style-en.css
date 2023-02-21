@@ -147,12 +147,28 @@ table {
 }
 
 .fb-blue{background-color:#3C5A99;
-width:37px;
-height:40px;
-padding-left:10px;
+    width: 48px;
+    height: 45px;
+padding-left:5px;
 border-radius: 3px;
 padding-top:8px;
 }
+
+.ph-green{background-color:#059100;
+    width: 48px;
+    height: 45px;
+    padding-left: 3px;
+    border-radius: 3px;
+    padding-top: 8px;
+    }
+
+    .lc-red{background-color:#da0f0f;
+        width: 48px;
+       height: 45px;
+       padding-left: 1px;
+        border-radius: 3px;
+        padding-top: 8px;
+    }
 
 .light-blue {
     color: #9699a6;
