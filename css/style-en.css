@@ -515,6 +515,7 @@ padding-top:8px;
     position: relative;
     border: 1px solid #e5e5e5;
     padding: 8px;
+
 }
 .gallery-area .single-item-area .img-box-area img {
     position: relative;
@@ -522,16 +523,15 @@ padding-top:8px;
 }
 .single-item-area .img-box-area .overlay .box .content a i {
     border: 2px solid #fff;
-    text-align: center;
     color: #509E52;
     display: inline-block;
-    font-size: 15px;
-    height: 55px;
+    font-size: 0px;
+    height: 288px;
     line-height: 53px;
     transition: all 500ms ease 0s;
-    width: 55px;
-    margin-bottom: 15px;
-    border-radius: 0;
+    width: 205px;
+    margin-bottom: 1600px;
+    border-width: 0px;
 }
 .single-item-area:hover .img-box-area .overlay {
     -webkit-transform: scale(1);
@@ -561,6 +561,7 @@ padding-top:8px;
 }
 .gallery-area h5 {
     color: #fff;
+    margin-top: -1900px;
 }
 .gallery-area .owl-dots {
     display: none !important;
