@@ -1,0 +1,328 @@
+Uri: http://www.rossipizza.eu/
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\index.htm
+Content Type: text/html
+
+Uri: http://www.rossipizza.eu/appsresources/googleMapsPA.js
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\appsresources\googleMapsPA.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/cart/images/no-preview.png
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\cart\images\no-preview.png
+Content Type: image/png
+
+Uri: http://www.rossipizza.eu/cart/x5cart.js?16-3-1-1-638128710831063861
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\cart\x5cart-1.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/cart/x5cart.js?16-3-1-1-638128717280443932
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\cart\x5cart.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/favicon.png?16-3-1-1-638128710806358971
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\favicon-1.png
+Content Type: image/png
+
+Uri: http://www.rossipizza.eu/favicon.png?16-3-1-1-638128717261717269
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\favicon.png
+Content Type: image/png
+
+Uri: http://www.rossipizza.eu/images/basic1-013_time_clock-512-1.png
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\images\basic1-013_time_clock-512-1.png
+Content Type: image/png
+
+Uri: http://www.rossipizza.eu/images/basic1-036_phone_call-512-1.png
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\images\basic1-036_phone_call-512-1.png
+Content Type: image/png
+
+Uri: http://www.rossipizza.eu/images/basic1-036_phone_call-white.png
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\images\basic1-036_phone_call-white.png
+Content Type: image/png
+
+Uri: http://www.rossipizza.eu/images/Chicken-food-2.png
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\images\Chicken-food-2.png
+Content Type: image/png
+
+Uri: http://www.rossipizza.eu/images/location-rossi-pizza-1.png
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\images\location-rossi-pizza-1.png
+Content Type: image/png
+
+Uri: http://www.rossipizza.eu/images/pizza-711662_1920.png
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\images\pizza-711662_1920.png
+Content Type: image/png
+
+Uri: http://www.rossipizza.eu/images/pizza-744405_1920.jpg
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\images\pizza-744405_1920.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rossipizza.eu/images/pizza-yahoo_menu_small.jpg
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\images\pizza-yahoo_menu_small.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rossipizza.eu/images/rossi-pizza-top-img.jpg
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\images\rossi-pizza-top-img.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rossipizza.eu/images/rossi-pizza-top-img_uvyb7117.jpg
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\images\rossi-pizza-top-img_uvyb7117.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rossipizza.eu/images/rossipizza-logo3.png
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\images\rossipizza-logo3.png
+Content Type: image/png
+
+Uri: http://www.rossipizza.eu/images/rossipizza-logo3_ja969yol.png
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\images\rossipizza-logo3_ja969yol.png
+Content Type: image/png
+
+Uri: http://www.rossipizza.eu/images/salad-1051200_1280.png
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\images\salad-1051200_1280.png
+Content Type: image/png
+
+Uri: http://www.rossipizza.eu/images/smartphone-white.png
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\images\smartphone-white.png
+Content Type: image/png
+
+Uri: http://www.rossipizza.eu/images/spagetti-1.png
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\images\spagetti-1.png
+Content Type: image/png
+
+Uri: http://www.rossipizza.eu/index.html
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\index.html
+Content Type: text/html
+
+Uri: http://www.rossipizza.eu/menu-rossi-pizza.html
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\menu-rossi-pizza.html
+Content Type: text/html
+
+Uri: http://www.rossipizza.eu/pcss/index.css?16-3-1-1-638128717280443932
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pcss\index.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/pcss/menu-rossi-pizza.css?16-3-1-1-638128710831063861
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pcss\menu-rossi-pizza.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_14/custom.css
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_14\custom.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_30/custom.css
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_30\custom.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_30/main.js
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_30\main.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_100/custom.css
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_100\custom.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_100/main.js
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_100\main.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_104/custom.css
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_104\custom.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_104/main.js
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_104\main.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_105/custom.css
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_105\custom.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_105/main.js
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_105\main.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_84/custom.css
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_84\custom.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_84/main.js
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_84\main.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_85/custom.css
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_85\custom.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_85/main.js
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_85\main.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_86/custom.css
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_86\custom.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_86/main.js
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_86\main.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_87/custom.css
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_87\custom.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_87/main.js
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_87\main.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_88/custom.css
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_88\custom.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_88/main.js
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_88\main.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_89/custom.css
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_89\custom.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_89/main.js
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_89\main.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_90/custom.css
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_90\custom.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_90/main.js
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_90\main.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_91/custom.css
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_91\custom.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_91/main.js
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_91\main.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_92/custom.css
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_92\custom.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_92/main.js
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_92\main.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_93/custom.css
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_93\custom.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_93/main.js
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_93\main.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_94/custom.css
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_94\custom.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_94/main.js
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_94\main.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_95/custom.css
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_95\custom.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_95/main.js
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_95\main.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_99/custom.css
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_99\custom.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_3_99/main.js
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_3_99\main.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_68/custom.css
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_68\custom.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_68/main.js
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_68\main.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_69/custom.css
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_69\custom.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_69/main.js
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_69\main.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_71/custom.css
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_71\custom.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/pluginAppObj/pluginAppObj_71/main.js
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\pluginAppObj\pluginAppObj_71\main.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/res/jquery.js?16-3-1-1
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\res\jquery.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/res/x5engine.js?16-3-1-1
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\res\x5engine.js
+Content Type: application/javascript
+
+Uri: http://www.rossipizza.eu/style/4954AC3FB900EB9AE8487C9FE7EBE7F2.png
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\style\4954AC3FB900EB9AE8487C9FE7EBE7F2.png
+Content Type: image/png
+
+Uri: http://www.rossipizza.eu/style/print.css?16-3-1-1
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\style\print.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/style/reset.css?16-3-1-1
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\style\reset.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/style/style.css?16-3-1-1
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\style\style.css
+Content Type: text/css
+
+Uri: http://www.rossipizza.eu/style/template.css?16-3-1-1
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\style\template.css
+Content Type: text/css
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\ajax\libs\jquery\2.1.3\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Kurale:regular
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:700,regular,italic,700italic
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/kurale/v11/4iCs6KV9e9dXjhoKfw7z.ttf
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\s\kurale\v11\4iCs6KV9e9dXjhoKfw7z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\userr\OneDrive\Desktop\www.rossipizza.eu\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
